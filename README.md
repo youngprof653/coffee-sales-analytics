@@ -18,7 +18,7 @@ The goal is to uncover sales trends, customer behavior patterns, and product per
 ---
 
 ## 🛠 Tools Used
-- **Excel** → Data cleaning, analysis, and dashboard creation  
+- **Excel** → Data cleaning, analysis, power query and dashboard creation  
 - **Pivot Tables & Charts** → Trend analysis and comparisons  
 - **Conditional Formatting** → Highlighting key insights  
 
