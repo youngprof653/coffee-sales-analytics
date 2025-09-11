@@ -7,7 +7,8 @@ The goal is to uncover sales trends, customer behavior patterns, and product per
 ---
 
 ## 📊 Dashboard Preview
-![Coffee Sales Dashboard](./coofee%20sales.png)
+![Coffee Sales Dashboard](./coofee%20sales%20.png)
+
 ---
 
 ## 📊 Key Questions
