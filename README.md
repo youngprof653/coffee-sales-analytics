@@ -31,7 +31,6 @@ The goal is to uncover sales trends, customer behavior patterns, and product per
 - Created an interactive Excel dashboard for visualization  
 ## 📊 Dashboard Preview  
 
-![Coffee Sales Dashboard](./Screenshot%202025-09-05%20173350.png)
 
 ---
 
